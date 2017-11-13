@@ -1,0 +1,12 @@
+{
+  "name": "gexf-to-json",
+  "version": "1.0.0",
+  "description": "A nano cli tool to convert gexf files to json",
+  "main": "gexf-to-json.js",
+  "dependencies": {
+    "gexf": "^0.2.5",
+    "minimist": "^1.2.0"
+  },
+  "author": "Robin de Mourat",
+  "license": "MIT"
+}
